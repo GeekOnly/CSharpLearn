@@ -1,0 +1,15 @@
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.exe
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.deps.json
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.runtimeconfig.json
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.dll
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\bin\Debug\net6.0\EventAndDelegate.pdb
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.csproj.AssemblyReference.cache
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.AssemblyInfoInputs.cache
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.AssemblyInfo.cs
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.dll
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\refint\EventAndDelegate.dll
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.pdb
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\EventAndDelegate.genruntimeconfig.cache
+C:\Users\XS STUDIO\Portfolio\Code\CSharpLearn\EventAndDelegate\EventAndDelegate\obj\Debug\net6.0\ref\EventAndDelegate.dll
